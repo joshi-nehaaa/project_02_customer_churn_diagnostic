@@ -6,11 +6,11 @@ Diagnose customer churn patterns for a fictitious, UK-based SaaS company and ide
 **Tools:** \
 Excel, Power BI
 
-**Key Findings:** \
-- Churn rate and retention metrics \ 
-- Segment-level churn (contract, tenure, support) \ 
-- Qualitative churn signals and interpretation \ 
-- Executive dashboard for decision-makers \ 
+**Key Findings:**
+- Churn rate and retention metrics 
+- Segment-level churn (contract, tenure, support)
+- Qualitative churn signals and interpretation
+- Executive dashboard for decision-makers
 
 **Repo Map:** 
 <details>
