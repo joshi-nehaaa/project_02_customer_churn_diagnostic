@@ -1,0 +1,38 @@
+Customer Churn Diagnostic
+Step 4: Insights, Interpretation & Recommendations
+
+Objective:
+	Translate churn analysis results into actionable business insights and practical retention strategies for a SaaS business, ensuring findings are decision-oriented rather than purely analytical.
+
+Data Source:
+	Cleaned customer churn dataset (churn_clean.xlsx) derived from public Telco churn data, interpreted as a SaaS context.
+	Quantitative churn metrics and segment-level analysis from Step 3.
+	Qualitative churn signals synthesized from observed patterns in contract type, tenure, pricing, and support usage.
+
+Steps: 
+	1. Insight Consolidation
+		Combined insights from step 3 (Insight ID, Insight Type, Quantitative Evidence, Qualitative Signal). 
+		Structured insights by theme (contract type, tenure, support, pricing).
+	2. Business Interpretation
+		Interpreted why specific customer segments exhibit higher churn.
+		Focused on behavioral, structural, and value-perception drivers.
+	3. Actionable Recommendations
+		Developed targeted retention strategies aligned to each insight.
+		Identified impacted stakeholders, estimated implementation effort, and assigned priorities.
+	4. Decision-Oriented Synthesis
+		Consolidated findings, implications, and recommendations into a single structured table to support management decision-making.
+	5. Stated Limitations & Assumptions.
+
+Key Findings: 
+	Customers on month-to-month contracts exhibit significantly higher churn due to low switching costs.
+	The highest churn occurs within the first 6 months, highlighting onboarding and early value realization gaps.
+	Lack of technical support is associated with increased churn during service issues.
+	Higher monthly charges correlate with churn when perceived value is unclear.
+
+Outputs: 
+	analysis/churn_clean.xlsx
+		Sheet:insights_recommendation
+			Key findings, Quantitative evidence, Qualitative signals, Business implications, Recommended actions, Impacted stakeholders, effort, and priority
+
+Next Step: 
+	Develop a concise executive dashboard to visually communicate churn KPIs, key drivers, and priority actions for stakeholders using Power BI and exported static visuals.
