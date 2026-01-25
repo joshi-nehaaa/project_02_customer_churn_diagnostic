@@ -44,6 +44,7 @@ Excel, Power BI
 <summary>📁 outputs/</summary>
 - churn_dashboard.pdf
 - churn_dashboard.png
+- project_02_customer_churn_case_brief.pdf
 </details>
 
 
